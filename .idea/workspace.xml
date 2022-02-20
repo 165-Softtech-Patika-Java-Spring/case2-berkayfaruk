@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c76742da-2543-4715-bbbf-b02db53b09d2" name="Changes" comment="Paketler oluşturuldu" />
+    <list default="true" id="c76742da-2543-4715-bbbf-b02db53b09d2" name="Changes" comment="Paketler oluşturuldu">
+      <change afterPath="$PROJECT_DIR$/Odev2/src/main/java/com/example/odev2/entities/Country.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645304998546</updated>
       <workItem from="1645305002928" duration="1753000" />
-      <workItem from="1645387048870" duration="2076000" />
+      <workItem from="1645387048870" duration="2212000" />
     </task>
     <task id="LOCAL-00001" summary="Maven oluşturuldu">
       <created>1645305470264</created>
@@ -65,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645389013512</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Paketler oluşturuldu">
+      <created>1645389217268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645389217268</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
