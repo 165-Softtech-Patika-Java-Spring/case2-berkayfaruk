@@ -4,19 +4,20 @@ import lombok.Data;
 
 import javax.persistence.*;
 
-
 @Data
 @Entity
-@Table(name="country")
-public class Country  {
+@Table(name="city")
+public class City  {
     @Id
     @GeneratedValue
-    @Column(name="country_id")
+    @Column(name="city_id")
     private long id;
 
-    @Column(name="country_name")
+    @Column(name="city_name")
     private String name;
 
-    @Column(name="country_code")
-    private int countryCode;
+    @Column(name="plate")
+    private String plate;
+
+
 }

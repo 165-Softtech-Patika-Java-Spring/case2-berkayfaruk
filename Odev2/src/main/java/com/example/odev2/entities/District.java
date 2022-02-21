@@ -1,22 +1,19 @@
 package com.example.odev2.entities;
 
+
 import lombok.Data;
 
 import javax.persistence.*;
 
-
 @Data
 @Entity
-@Table(name="country")
-public class Country  {
+@Table(name="district")
+public class District  {
     @Id
     @GeneratedValue
-    @Column(name="country_id")
+    @Column(name="district_id")
     private long id;
 
-    @Column(name="country_name")
+    @Column(name="district_name")
     private String name;
-
-    @Column(name="country_code")
-    private int countryCode;
 }
